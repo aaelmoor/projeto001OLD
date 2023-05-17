@@ -1,6 +1,7 @@
 {
   "window.zoomLevel": -1,
   "editor.fontSize": 18,
+  "editor.rulers": [79],
   "python.languageServer": "Pylance", // ms-python.vscode-pylance
   "python.testing.unittestEnabled": false, // ms-python.python
   "python.testing.pytestEnabled": true,
